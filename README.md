@@ -15,8 +15,9 @@ Make the pull request (with a meaningful commit message) and wait for it to be a
 
 **Which subject do you like the most? And why?**
 
-* [cvm](files/cvm.md)
 
+* [cvm](files/cvm.md)
+* [cfs](files/cfs.md)
 ---
 
 END
